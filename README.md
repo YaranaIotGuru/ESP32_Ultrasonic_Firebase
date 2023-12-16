@@ -43,8 +43,8 @@ In a world driven by innovation, the Smart Distance Measuring System demonstrate
 
 ## Additional Resources
 
-- [Link to Android App Source Code](link_to_app_repository)
-- [Link to Arduino Code](link_to_arduino_code)
+- [Link to Android App Source Code](https://github.com/YaranaIotGuru/ESP32_Ultrasonic_Firebase/blob/2c8a78b3191d81e4e6755c72ae6dee8f59649bc8/distance_measuring.apk)
+- [Link to Arduino Code](https://github.com/YaranaIotGuru/ESP32_Ultrasonic_Firebase/blob/2c8a78b3191d81e4e6755c72ae6dee8f59649bc8/code.ino)
 - [Link to Libraries Used](https://github.com/ArtronShop/IOXhop_FirebaseESP32.git)
 
 ## Video Tutorial
